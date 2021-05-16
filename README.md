@@ -1,2 +1,2 @@
 # JWT
-Cpmplate project to use jwt authentication 
+Complate project to use jwt authentication in asp.net core api
